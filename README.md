@@ -22,18 +22,19 @@
 
 
 ## Execution Results
-+ **Initial Page**
-<img src="images/LoginPage.jpg" width="750px">
++ **Initial Page**<br>
+    <img src="images/LoginPage.jpg" width="750px">
 <br>
 
-+ **Make Account**
-<img src="images/MakeAccount.jpg" width="750px">
++ **Make Account Page**<br>
+    <img src="images/MakeAccount.jpg" width="750px">
     + 회원가입을 위한 ID, 비밀번호, 이름, 생일, 프로필 사진을 입력받고 이를 DB에 저장
-
 <br>
 
-+ **로그인 후 화면**
-<img src="images/MainPage.jpg" width="800px">
++ **Main Page**<br>
+    <img src="images/MainPage.jpg" width="750px">
+    + 메인 화면으로 프로필과 게시글 내용이 표시됨
+    + 메인 화면의 헤더 부분과 메뉴부분에서 왼쪽에 집모양의 버튼을 클릭하면 현재 화면인 메인 화면으로 돌아오게 설계.
 <br>
 
 + **더보기 기능**
