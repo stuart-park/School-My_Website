@@ -23,58 +23,58 @@
 
 ## Execution Results
 + 로그인 화면
-![image](images/LoginPage.jpg)
+<img src="images/LoginPage.jpg" width="800px">
 <br>
 
 + 회원가입하기
-![image](images/MakeAccount.jpg)
+<img src="images/MakeAccount.jpg" width="800px">
 <br>
 
 + 로그인 후 화면
-![image](images/MainPage.jpg)
+<img src="images/MainPage.jpg" width="800px">
 <br>
 
 + 더보기 기능
-![image](images/ShowMore.jpg)
+<img src="images/ShowMore.jpg" width="800px">
 <br>
 
 + 게시글 검색
-![image](images/SearchPost.jpg)
+<img src="images/SearchPost.jpg" width="800px">
 <br>
 
 + 게시글 작성
-![image](images/MakePost.jpg)
-![image](images/AddPost.jpg)
+<img src="images/MakePost.jpg" width="800px">
+<img src="images/AddPost.jpg" width="800px">
 <br>
 
 + 게시글 보기
-![image](images/ShowPost.jpg)
+<img src="images/ShowPost.jpg" width="800px">
 <br>
 
 + 추천하기
-![image](images/LikePost.jpg)
+<img src="images/LikePost.jpg" width="800px">
 <br>
 
 + 게시글 수정
-![image](images/ModifyPost.jpg)
-![image](images/ModifyPostConfirm.jpg)
+<img src="images/ModifyPost.jpg" width="800px">
+<img src="images/ModifyPostConfirm.jpg" width="800px">
 <br>
 
 + 게시글 삭제
-![image](images/DeletePost.jpg)
-![image](images/DeleteConfirmation.jpg)
-![image](images/DeleteConfirm.jpg)
+<img src="images/DeletePost.jpg" width="800px">
+<img src="images/DeleteConfirmation.jpg" width="800px">
+<img src="images/DeleteConfirm.jpg" width="800px">
 <br>
 
 + 댓글 입력
-![image](images/AddComent.jpg)
-![image](images/ConfirmComment.jpg)
+<img src="images/AddComent.jpg" width="800px">
+<img src="images/ConfirmComment.jpg" width="800px">
 <br>
 
 + 댓글 수정
-![image](images/ModifyComment.jpg)
-![image](images/ModifyCommentConfirm.jpg)
+<img src="images/ModifyComment.jpg" width="800px">
+<img src="images/ModifyCommentConfirm.jpg" width="800px">
 <br>
 
 + 댓글 삭제
-![image](images/DeleteConmment.jpg)
+<img src="images/DeleteConmment.jpg" width="800px">
