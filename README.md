@@ -22,59 +22,61 @@
 
 
 ## Execution Results
-+ 로그인 화면
-<img src="images/LoginPage.jpg" width="800px">
++ **Initial Page**
+<img src="images/LoginPage.jpg" width="750px">
 <br>
 
-+ 회원가입하기
-<img src="images/MakeAccount.jpg" width="800px">
++ **Make Account**
+<img src="images/MakeAccount.jpg" width="750px">
+    + 회원가입을 위한 ID, 비밀번호, 이름, 생일, 프로필 사진을 입력받고 이를 DB에 저장
+
 <br>
 
-+ 로그인 후 화면
++ **로그인 후 화면**
 <img src="images/MainPage.jpg" width="800px">
 <br>
 
-+ 더보기 기능
++ **더보기 기능**
 <img src="images/ShowMore.jpg" width="800px">
 <br>
 
-+ 게시글 검색
++ **게시글 검색**
 <img src="images/SearchPost.jpg" width="800px">
 <br>
 
-+ 게시글 작성
++ **게시글 작성**
 <img src="images/MakePost.jpg" width="800px">
 <img src="images/AddPost.jpg" width="800px">
 <br>
 
-+ 게시글 보기
++ **게시글 보기**
 <img src="images/ShowPost.jpg" width="800px">
 <br>
 
-+ 추천하기
++ **추천하기**
 <img src="images/LikePost.jpg" width="800px">
 <br>
 
-+ 게시글 수정
++ **게시글 수정**
 <img src="images/ModifyPost.jpg" width="800px">
 <img src="images/ModifyPostConfirm.jpg" width="800px">
 <br>
 
-+ 게시글 삭제
++ **게시글 삭제**
 <img src="images/DeletePost.jpg" width="800px">
 <img src="images/DeleteConfirmation.jpg" width="800px">
 <img src="images/DeleteConfirm.jpg" width="800px">
 <br>
 
-+ 댓글 입력
++ **댓글 입력**
 <img src="images/AddComent.jpg" width="800px">
 <img src="images/ConfirmComment.jpg" width="800px">
 <br>
 
-+ 댓글 수정
++ **댓글 수정**
 <img src="images/ModifyComment.jpg" width="800px">
 <img src="images/ModifyCommentConfirm.jpg" width="800px">
 <br>
 
-+ 댓글 삭제
++ **댓글 삭제**
 <img src="images/DeleteConmment.jpg" width="800px">
