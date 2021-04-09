@@ -37,46 +37,66 @@
     + 메인 화면의 헤더 부분과 메뉴부분에서 왼쪽에 집모양의 버튼을 클릭하면 현재 화면인 메인 화면으로 돌아옴<br><br>
     
     <img src="images/ShowMore.jpg" width="750px"><br>
-    + 게시글 내용이 100자 이상이면 더보기로 표시되고 더보기를 클릭하면 위와 같이 더보기가 접기로 바뀌면서 글이 펼처짐
+    + 게시글 내용이 100자 이상이면 더보기로 표시되고 더보기를 클릭하면 위와 같이 더보기가 접기로 바뀌면서 글이 펼처짐<br><br>
+
+    <img src="images/SearchPost.jpg" width="750px"><br>
+    + ‘Hello’ 라는 키워드로 검색했을 때 표시되는 게시물
 <br>
 
-+ **게시글 검색**
-<img src="images/SearchPost.jpg" width="800px">
++ **Make Post Page**
+    <img src="images/MakePost.jpg" width="750px">
+    + 게시글 작성 페이지로 제목, 게시판, 사진, 게시글 내용을 입력 받고 DB에 저장<br><br>
+    
+    <img src="images/AddPost.jpg" width="750px"><br>
+    + 작성한 게시글이 Main Page에서 표시되는 것을 볼 수 있음
 <br>
 
-+ **게시글 작성**
-<img src="images/MakePost.jpg" width="800px">
-<img src="images/AddPost.jpg" width="800px">
++ **Show Post Page**
+    <img src="images/ShowPost.jpg" width="750px">
+    + Main Page에서 게시글 제목을 눌렀을 때 해당 게시물의 내용들이 표시
+    + 제목과 작성 일시 그 밑으로는 조회수와 추천수가 표시되고 옆에는 게시글을 수정하고 삭제하는 버튼이 표시됨
+    + 사진과 글 내용이 표시되고 밑에 엄지 아이콘으로 추천하는 버튼이 표시. 엄지 버튼 클릭시 추천수가 증가
+    + 글 하단에는 댓글이 표시되고 댓글을 작성하는 부분과 작성된 내용, 댓글 수 가 표시됨<br><br>
+
+    <img src="images/LikePost.jpg" width="750px"><br>
+    + 엄지 아이콘을 클릭했을 때 추천수가 증가한 것을 확인할 수 있음
 <br>
 
-+ **게시글 보기**
-<img src="images/ShowPost.jpg" width="800px">
++ **Modify Post Page**
+    <img src="images/ModifyPost.jpg" width="750px">
+    + 게시글 수정 페이지로 게시글에서 수정 버튼을 클릭했을 때 DB에서 해당 게시글의 내용을 가지고 옴<br><br>
+   
+    <img src="images/ModifyPostConfirm.jpg" width="750px"><br>
+    + 게시글 수정후의 모습으로 작성일시도 갱신이 되었음을 알 수 있음
 <br>
 
-+ **추천하기**
-<img src="images/LikePost.jpg" width="800px">
++ **Delete Post**
+    <img src="images/DeletePost.jpg" width="750px">
+    + 해당 게시물을 삭제하기 위해 삭제 버튼을 클릭<br><br>
+    
+    <img src="images/DeleteConfirmation.jpg" width="750px"><br>
+    + 삭제여부를 묻는 알림 창이 나오고 확인을 클릭<br><br>
+    
+    <img src="images/DeleteConfirm.jpg" width="750px"><br>
+    + 확인을 클릭하면 해당 게시물이 Main Page에서 삭제되었음을 알 수 있음
 <br>
 
-+ **게시글 수정**
-<img src="images/ModifyPost.jpg" width="800px">
-<img src="images/ModifyPostConfirm.jpg" width="800px">
++ **Add Comment**
+    <img src="images/AddComent.jpg" width="750px">
+    + ‘Nice!’라는 댓글을 입력 후 댓글쓰기 버튼을 클릭<br><br>
+    
+    <img src="images/ConfirmComment.jpg" width="750px"><br>
+    + 댓글과 작성시간, 아이디가 입력되었음을 확인할 수 있음
 <br>
 
-+ **게시글 삭제**
-<img src="images/DeletePost.jpg" width="800px">
-<img src="images/DeleteConfirmation.jpg" width="800px">
-<img src="images/DeleteConfirm.jpg" width="800px">
++ **Modify Commet**
+    <img src="images/ModifyComment.jpg" width="750px">
+    + 댓글 수정 버튼을 클릭했을 때 팝업창이 나타나면서 수정할 댓글을 DB에서 불러옴<br><br>
+    
+    <img src="images/ModifyCommentConfirm.jpg" width="750px"><br>
+    + Good!을 Very Good로 수정 후의 모습으로 작성시간도 갱신되었음을 알 수 있음
 <br>
 
-+ **댓글 입력**
-<img src="images/AddComent.jpg" width="800px">
-<img src="images/ConfirmComment.jpg" width="800px">
-<br>
-
-+ **댓글 수정**
-<img src="images/ModifyComment.jpg" width="800px">
-<img src="images/ModifyCommentConfirm.jpg" width="800px">
-<br>
-
-+ **댓글 삭제**
-<img src="images/DeleteConmment.jpg" width="800px">
++ **Delete Comment**
+    <img src="images/DeleteConmment.jpg" width="750px">
+    + 위에서 ‘Nice’댓글을 삭제하고 난 뒤의 모습으로 해당 댓글이 삭제되었음을 확인할 수 있음
