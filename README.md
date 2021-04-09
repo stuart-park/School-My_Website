@@ -23,8 +23,34 @@
 
 ## Execution Results
 + 로그인 화면
-
+![image](images/LoginPage.jpg)
 + 회원가입하기
+![image](images/MakeAccount.jpg)
 + 로그인 후 화면
-+ 
-+ 
+![image](images/MainPage.jpg)
++ 더보기 기능
+![image](images/ShowMore.jpg)
++ 게시글 검색
+![image](images/SearchPost.jpg)
++ 게시글 작성
+![image](images/MakePost.jpg)
+![image](images/AddPost.jpg)
++ 게시글 보기
+![image](images/ShowPost.jpg)
++ 추천하기
+![image](images/LikePost.jpg)
++ 게시글 수정
+![image](images/ModifyPost.jpg)
+![image](images/ModifyPostConfirm.jpg)
++ 게시글 삭제
+![image](images/DeletePost.jpg)
+![image](images/DeleteConfirmation.jpg)
+![image](images/DeleteConfirm.jpg)
++ 댓글 입력
+![image](images/AddComent.jpg)
+![image](images/ConfirmComment.jpg)
++ 댓글 수정
+![image](images/ModifyComment.jpg)
+![image](images/ModifyCommentConfirm.jpg)
++ 댓글 삭제
+![image](images/DeleteConmment.jpg)
