@@ -43,7 +43,7 @@
     + ‘Hello’ 라는 키워드로 검색했을 때 표시되는 게시물
 <br>
 
-+ **Make Post Page**
++ **Make Post Page**<br><br>
     <img src="images/MakePost.jpg" width="750px">
     + 게시글 작성 페이지로 제목, 게시판, 사진, 게시글 내용을 입력 받고 DB에 저장<br><br>
     
@@ -51,7 +51,7 @@
     + 작성한 게시글이 Main Page에서 표시되는 것을 볼 수 있음
 <br>
 
-+ **Show Post Page**
++ **Show Post Page**<br><br>
     <img src="images/ShowPost.jpg" width="750px">
     + Main Page에서 게시글 제목을 눌렀을 때 해당 게시물의 내용들이 표시
     + 제목과 작성 일시 그 밑으로는 조회수와 추천수가 표시되고 옆에는 게시글을 수정하고 삭제하는 버튼이 표시됨
@@ -62,7 +62,7 @@
     + 엄지 아이콘을 클릭했을 때 추천수가 증가한 것을 확인할 수 있음
 <br>
 
-+ **Modify Post Page**
++ **Modify Post Page**<br><br>
     <img src="images/ModifyPost.jpg" width="750px">
     + 게시글 수정 페이지로 게시글에서 수정 버튼을 클릭했을 때 DB에서 해당 게시글의 내용을 가지고 옴<br><br>
    
@@ -70,7 +70,7 @@
     + 게시글 수정후의 모습으로 작성일시도 갱신이 되었음을 알 수 있음
 <br>
 
-+ **Delete Post**
++ **Delete Post**<br><br>
     <img src="images/DeletePost.jpg" width="750px">
     + 해당 게시물을 삭제하기 위해 삭제 버튼을 클릭<br><br>
     
@@ -81,7 +81,7 @@
     + 확인을 클릭하면 해당 게시물이 Main Page에서 삭제되었음을 알 수 있음
 <br>
 
-+ **Add Comment**
++ **Add Comment**<br><br>
     <img src="images/AddComent.jpg" width="750px">
     + ‘Nice!’라는 댓글을 입력 후 댓글쓰기 버튼을 클릭<br><br>
     
@@ -89,7 +89,7 @@
     + 댓글과 작성시간, 아이디가 입력되었음을 확인할 수 있음
 <br>
 
-+ **Modify Commet**
++ **Modify Commet**<br><br>
     <img src="images/ModifyComment.jpg" width="750px">
     + 댓글 수정 버튼을 클릭했을 때 팝업창이 나타나면서 수정할 댓글을 DB에서 불러옴<br><br>
     
@@ -97,6 +97,6 @@
     + Good!을 Very Good로 수정 후의 모습으로 작성시간도 갱신되었음을 알 수 있음
 <br>
 
-+ **Delete Comment**
++ **Delete Comment**<br><br>
     <img src="images/DeleteConmment.jpg" width="750px">
     + 위에서 ‘Nice’댓글을 삭제하고 난 뒤의 모습으로 해당 댓글이 삭제되었음을 확인할 수 있음
