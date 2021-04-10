@@ -1,7 +1,6 @@
 # SNS Blog
-+ Overview: 
 
-# File Description
+## File Description
 + StoryBoard.Login.jsp: 초기 페이지로 로그인 및 회원가입 기능 구현
 + StoryBoard.MakeAccount.jsp : 회원가입 페이지로 아이디, 비밀번호, 생일, 이름, 프로필 사진을 입력 받음
 + StoryBoard.MakeAccount_do.jsp : 회원DB에 회원 정보를 저장
@@ -21,7 +20,7 @@
 + StoryBoard.DeleteComment_do.jsp : 댓글을 삭제하는 페이지로 DB에서 해당 댓글 삭제
 
 
-# Execution Results
+## Execution Results
 + **Initial Page**<br><br>
     <img src="images/LoginPage.jpg" width="750px">
 <br>
