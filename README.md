@@ -1,5 +1,5 @@
 # SNS Blog
-# Overview
++ Overview: 
 
 # File Description
 + StoryBoard.Login.jsp: 초기 페이지로 로그인 및 회원가입 기능 구현
