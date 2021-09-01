@@ -55,7 +55,7 @@ body {
 
 	<div class="footer">
 		<p>Made By</p>
-		<p>12151562 박현태</p>
+		<p>Stuart Park</p>
 	</div>
 
 </body>
